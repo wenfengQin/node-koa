@@ -7,6 +7,4 @@ router.get('/', (ctx, next) => {
     ctx.body = '成功'
 })
 
-
-
 module.exports = router
